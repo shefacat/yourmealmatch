@@ -1,0 +1,1 @@
+import{_ as c,c as n,a as t,o}from"./WzUBunjw.js";const s={},a={class:"content-section"};function r(i,e){return o(),n("section",a,[...e[0]||(e[0]=[t("div",{class:"container"},[t("h1",{class:"page-title"},"Contact Us"),t("div",{class:"page-content"},[t("p",null,"Content coming soon...")])],-1)])])}const _=c(s,[["render",r],["__scopeId","data-v-a6fbceea"]]);export{_ as default};
